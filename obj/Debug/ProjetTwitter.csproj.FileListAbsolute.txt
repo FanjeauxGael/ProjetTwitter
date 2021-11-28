@@ -1,0 +1,10 @@
+C:\Users\gaelf\source\repos\ProjetTwitter\ProjetTwitter\bin\Debug\ProjetTwitter.exe.config
+C:\Users\gaelf\source\repos\ProjetTwitter\ProjetTwitter\bin\Debug\ProjetTwitter.exe
+C:\Users\gaelf\source\repos\ProjetTwitter\ProjetTwitter\bin\Debug\ProjetTwitter.pdb
+C:\Users\gaelf\source\repos\ProjetTwitter\ProjetTwitter\obj\Debug\ProjetTwitter.csproj.AssemblyReference.cache
+C:\Users\gaelf\source\repos\ProjetTwitter\ProjetTwitter\obj\Debug\ProjetTwitter.Index.resources
+C:\Users\gaelf\source\repos\ProjetTwitter\ProjetTwitter\obj\Debug\ProjetTwitter.Properties.Resources.resources
+C:\Users\gaelf\source\repos\ProjetTwitter\ProjetTwitter\obj\Debug\ProjetTwitter.csproj.GenerateResource.cache
+C:\Users\gaelf\source\repos\ProjetTwitter\ProjetTwitter\obj\Debug\ProjetTwitter.csproj.CoreCompileInputs.cache
+C:\Users\gaelf\source\repos\ProjetTwitter\ProjetTwitter\obj\Debug\ProjetTwitter.exe
+C:\Users\gaelf\source\repos\ProjetTwitter\ProjetTwitter\obj\Debug\ProjetTwitter.pdb
